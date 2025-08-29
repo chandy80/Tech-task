@@ -24,7 +24,7 @@ I have set this up to use React + Javascript with JSX syntax extension. I chose 
 ## Installation
 As part of this app, I chose to use the following node libraries:  
 - Chart.js for the charts as this is my preferred library and I've used it for years in varying degrees. 
-- Tanstack Query with the useQuery, QueryClient and QueryClientProvider hooks for my data requests as this is generally what I use and have used more often due to its feature sets.
+- Tanstack Query with the `useQuery`, `QueryClient` and `QueryClientProvider` hooks for my data requests as this is generally what I use and have used more often due to its feature sets.
 - GraphQL Request to unify the data from the API.
 
 Just to note for this app I'm using the following node libraries which would need installing (if they aren't already):
