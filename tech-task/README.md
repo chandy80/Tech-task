@@ -28,6 +28,7 @@ As part of this app, I chose to use the following node libraries:
 
 Just to note for this app I'm using the following node libraries which would need installing (if they aren't already):
 
+npm install
 npm install @tanstack/react-query graphql-request react-chartjs-2 chart.js
 
 All of the imports I'm using are:
