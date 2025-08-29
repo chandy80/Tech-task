@@ -44,7 +44,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Lung Carcinoma Associated Targets</h1>
+      <h1>Genes associated with lung carcinoma</h1>
       {targets.length > 0 ? (
         <DataTable data={targets} />
       ) : (
