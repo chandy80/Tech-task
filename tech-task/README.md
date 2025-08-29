@@ -48,8 +48,12 @@ import { Bar, Radar } from 'react-chartjs-2';
 ```
 This should be all you need to get this running, however if you have any queries please reach out.
 
-It should look like this when it is running
+It should look like this when it is running:
 
-> <img width="961" height="877" alt="image" src="https://github.com/user-attachments/assets/89cf0380-5c92-4cf6-8643-4839aa3b492d" />
+> <img width="952" height="735" alt="image" src="https://github.com/user-attachments/assets/3a2c705f-489b-4736-a127-4de62d2d349b" />
+> <img width="939" height="883" alt="image" src="https://github.com/user-attachments/assets/8971b8e9-b8eb-4575-9a92-72e7082ae8ca" />
+> <img width="927" height="893" alt="image" src="https://github.com/user-attachments/assets/03a11c9c-f6ce-4153-9b57-08d49e5df606" />
+
+
 
 
