@@ -46,7 +46,10 @@ import ReactDOM from 'react-dom/client';
 import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
 import { Bar, Radar } from 'react-chartjs-2';
 ```
+This should be all you need to get this running, however if you have any queries please reach out.
+
+It should look like this when it is running
 
 > <img width="961" height="877" alt="image" src="https://github.com/user-attachments/assets/89cf0380-5c92-4cf6-8643-4839aa3b492d" />
 
-This should be all you need to get this running, however if you have any queries please reach out.
+
