@@ -1,4 +1,4 @@
-# Tech task - React
+# Technical task - React
 
 Task: Open Targets - React data table
 --------
