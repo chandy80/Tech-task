@@ -47,5 +47,4 @@ import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
 import { Bar, Radar } from 'react-chartjs-2';
 ```
 
-> [!IMPORTANT]
-> This should be all you need to get this running, however if you have any queries please reach out.
+This should be all you need to get this running, however if you have any queries please reach out.
