@@ -27,7 +27,7 @@ As part of this app, I chose to use the following node libraries:
 - Tanstack Query with the `useQuery`, `QueryClient` and `QueryClientProvider` hooks for my data requests as this is generally what I use and have used more often due to its feature sets.
 - GraphQL Request to unify the data from the API.
 
-> [!NOTE]
+> [!IMPORTANT]
 > Just to note for this app I'm using the following node libraries which would need installing (if they aren't already):
 
 ```bash
