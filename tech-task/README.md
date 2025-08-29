@@ -27,15 +27,15 @@ As part of this app, I chose to use the following node libraries:
 - Tanstack Query with the `useQuery`, `QueryClient` and `QueryClientProvider` hooks for my data requests as this is generally what I use and have used more often due to its feature sets.
 - GraphQL Request to unify the data from the API.
 
-> [!IMPORTANT]
-> Just to note for this app I'm using the following node libraries which would need installing (if they aren't already):
+> [!NOTE]
+> I'm using the following node libraries which would need installing (if they aren't already):
 
 ```bash
 npm install
 npm install @tanstack/react-query graphql-request react-chartjs-2 chart.js
 ```
 
-> [!NOTE]
+> [!IMPORTANT]
 > All of the imports I'm using are:
 
 ```javascript
